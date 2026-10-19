@@ -12,6 +12,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		Scanner lectura = null;
+		
+		System.out.println("Hola mundo agregando cambios");
 
 		String nombre;
 		String categoria;
