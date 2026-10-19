@@ -14,6 +14,7 @@ public class Principal {
 		Scanner lectura = null;
 		
 		System.out.println("Hola mundo agregando cambios");
+		System.out.println("Cambios en la nueva rama");
 
 		String nombre;
 		String categoria;
